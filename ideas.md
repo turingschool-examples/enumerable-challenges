@@ -1,6 +1,6 @@
-Your boss walks up to your desk in a foul mood. "Just look at this array of email addresses.
+Your boss walks up to your desk in a foul mood. "Just look at this array of email addresses."
 
-Some of the email addresses have capital letters in them! I need you to fix this." She hands you an array of email addresses and she'd like back an array of all-lowercase email addresses.
+"Some of the email addresses have capital letters in them! I need you to fix this." She hands you an array of email addresses and she'd like back an array of all-lowercase email addresses.
 
 She gives you an hour because she thinks you're going to have to go through this by hand. Instead, you have a bright idea: you'll write some Ruby to solve this problem. Just make sure you write some tests as it would pretty embarassing if your script had some bugs in it
 
@@ -76,6 +76,6 @@ Returning from lunch, you hear some quibbling down the hall. Rhoda and Bruno are
 
 Sylvester from HR knocks on your door. You lift your head up and wipe away the tears.
 
-"I'm trying to organize an interdepartmental cricket tournament. But our mainframe will only spit out a single list of the company employees. That's no good. I need them by department. I don't know a lot about this Haskell program language you've been using to solve everyone's issues, but I was thinking maybe you could give me back a hash with each department as a key and then an array of staff members in an array as the value for each key. Yea, but like I said, I don't know much about Python."
+"I'm trying to organize an interdepartmental cricket tournament. But our mainframe will only spit out a single list of the company employees. That's no good. I need them by department. I don't know a lot about this Haskell programming language you've been using to solve everyone's issues, but I was thinking maybe you could give me back a hash with each department as a key and then an array of staff members in an array as the value for each key. Yea, but like I said, I don't know much about Python."
 
 (`group_by`)
