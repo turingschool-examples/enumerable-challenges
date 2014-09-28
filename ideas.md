@@ -79,3 +79,31 @@ Sylvester from HR knocks on your door. You lift your head up and wipe away the t
 "I'm trying to organize an interdepartmental cricket tournament. But our mainframe will only spit out a single list of the company employees. That's no good. I need them by department. I don't know a lot about this Haskell programming language you've been using to solve everyone's issues, but I was thinking maybe you could give me back a hash with each department as a key and then an array of staff members in an array as the value for each key. Yea, but like I said, I don't know much about Python."
 
 (`group_by`)
+
+---
+
+All this scripting has made your drowsy. You decided it's prudent to take a quick nap and you put your head down on your desk.
+
+(Some time passes.)
+
+Your phone rings. You didn't even know you had a phone, but it's ringing. Better pick it up.
+
+It's the CEO.
+
+"Good afternoon," she says, "I heard you were able to group everyone by department. I have no idea where all of our money is going and I have to be at a board meeting in 20 minutes. Could you tell me how much we're spending on salaries in each department?"
+
+(`group_by`, `inject`, `reduce`)
+
+---
+
+You head down to the staff lounge to grab a much-need cup of coffee. Sylvestor ambushes you from seemingly out of nowhere.
+
+"GREAT NEWS," he shouts in your ear, "the board approved my team building program!" Apparently you and Sly have different definitions for "great news."
+
+"Could you take that staff roster and split everyone into random groups of 3? No maybe 4. Actually, 5. No, definitely 3. You should probably make it so I can change my mind. I so that a lot," he rambles on.
+
+You turn around, coffee-less, and head back to your desk.
+
+He's still talking.
+
+(`shuffle`, `partition`)
