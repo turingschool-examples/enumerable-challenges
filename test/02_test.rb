@@ -12,6 +12,6 @@ class SecondTest < Minitest::Test
   end
 
   def test_second_challenge
-    assert_equal 20, OrderHandler.tally(orders)
+    assert_equal 20, RevenueCalculator.tally(orders)
   end
 end
