@@ -1,5 +1,7 @@
 # Enumerable Challenges
 
+WOWOWOWOWOWOW!
+
 This repository follows our hero during a typical work day at WidgetCo. Over the course of the day, our hero will face coworkers who will present challenges that need some code written to solve a problem they're facing.
 
 You'll write tests based on the challenge and then an implementation to make those tests pass.
