@@ -20,5 +20,3 @@ You should make the best possible use of Ruby's Enumerable API and TDD strategie
 
 * Demonstrate an understanding of the methods Ruby's Enumerable has to offer.
 * Implement TDD by creating tests and sample data from scratch.
-
-viki testing
