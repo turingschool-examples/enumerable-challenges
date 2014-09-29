@@ -3,7 +3,7 @@ require 'minitest/autorun'
 require 'minitest/pride'
 require_relative '../lib/third_challenge'
 
-class SecondTest < Minitest::Test
+class ThirdTest < Minitest::Test
   attr_reader :orders
   def setup
     @orders = { order1: 5,
