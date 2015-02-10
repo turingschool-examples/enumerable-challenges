@@ -14,7 +14,7 @@ You should make the best possible use of [Underscore.js][us]'s API and TDD strat
 * As you create files and solve the challenges, you should make frequent commits.
 * At the end of the session, you should create a pull request.
 
-[fork]: https://github.com/turingschool-examples/enumerable-challenges
+[fork]: https://github.com/turingschool-examples/enumerable-challenges/tree/underscore-challenges
 
 ## Learning Goals
 
