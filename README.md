@@ -8,6 +8,10 @@ How you structure your tests and your code is up to you (and part of the exercis
 
 You should make the best possible use of [Underscore.js][us]'s API and TDD strategies. Your implementations should go in the `./lib` directory and your tests should go in the `./test` directory.
 
+## Setup
+
+You'll have to install your dependencies with `bower install`.
+
 ## Submission Instructions
 
 * One member of your pair/group should [fork][] this repository to his or her account.
