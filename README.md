@@ -12,6 +12,8 @@ You should make the best possible use of [Underscore.js][us]'s API and TDD strat
 
 You'll have to install your dependencies with `bower install`.
 
+Make a module for each challenge.
+
 ## Submission Instructions
 
 * One member of your pair/group should [fork][] this repository to his or her account.
